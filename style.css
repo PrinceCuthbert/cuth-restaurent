@@ -96,7 +96,7 @@ ul li .current {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 60vh;
+  height: 100vh;
 }
 .intro {
   width: 55%;
@@ -386,6 +386,11 @@ footer {
   .order-item img {
     width: 6rem;
     height: 6rem;
+  }
+  /* BUTTON */
+  .btn {
+    width: fit-content;
+    font-size: 8px;
   }
   /* FOOTER SECTION */
   .footer {
